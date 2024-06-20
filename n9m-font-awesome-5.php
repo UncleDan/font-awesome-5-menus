@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Iconic Awesome Fonts For Menus
+Plugin Name: Iconic Awesome Fonts For Menus (mod. UncleDan for SCF)
 Plugin URI: https://github.com/cogdog/font-awesome-5-menus
 Description: Easily add Font Awesome 5.0 icons to your WordPress menus and anywhere else on your site! This is an update to original version 4.7.0 plugin by New Nine Media. Apparently one cannpt use Font Awesome in the plugin name!
 Version: 5.3
